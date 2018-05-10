@@ -14,9 +14,11 @@ Before you start writing that style guide, keep these ideas in mind:
 
 * Get buy-in from management, other writers, engineers, pms - anyone who will have to use the style guide - that it's time to make and start using one.
 * You might not have to create your own style guide from scratch. Check around at work:
+
   * Your company, if it's big, might have other technical documentation teams that already have one. You might even end up being the "hero" that finds a few of them and starts a global style guide project. (That happened to me once.)
   * Your company might have a corporate communications guide, a marketing style guide, or other internal guides that you can build upon.
   * Someone else at your company might have started a style guide that languished but could be a place to start.
+  
 * Determine who your contributors will be. Good help and input can and should come from more than just official technical writers. Support Engineers, Product Engineering, Marketing and Sales are all places to look for collaborators. You will also likely need sign-off from your Legal department for some stuff.
 * Decide where your style guide will live, how people can contribute to it, and stuff like that. In my experience putting it somewhere like a wiki is a good compromise between having it be easily viewed by anyone who wants to see it, and worked on by anyone who wants to work on it.
 
@@ -55,11 +57,13 @@ Elements you probably want to make decisions on as early in the process as possi
 
 * Company product names, including trademark attribution, capitalization, allowable short forms
 * Legalese page (your Legal department might already have this for you):
+
   * Disclaimers
   * Proprietary and/or confidentiality statements
   * Copyrights
   * EULA
   * Etc.
+
 * Who is your audience?
 * Doc set architecture
 * Doc directory structure
