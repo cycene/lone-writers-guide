@@ -26,18 +26,23 @@ Resources:
 
 To help you out if you do have to create a style guide from scratch:
 
+To help you out if you do have to create a style guide from scratch:
+
 * Standard style guides that are useful places to start:
+
   * Chicago Manual of Style (http://www.chicagomanualofstyle.org/home.html)
   * Microsoft Writing Style Guide (https://docs.microsoft.com/en-us/style-guide/welcome/) - supersedes the old Microsoft Manual of Style
   * Handbook of Technical Writing (http://www.powells.com/book/-9781250004413)
   * Wired Style Guide (if you can find an old copy)
+
 * Publicly-available, comprehensive company style guides:
+
   * Apple (https://help.apple.com/applestyleguide/)
   * Tech Prose (http://www.techprose.com/assets/techwriting_guidelines.pdf)
   * Rackspace (https://rackerlabs.github.io/docs-rackspace/style-guide/index.html)
   * Google Developer Documentation (https://developers.google.com/style/)
+  
 * Ask in the Write the Docs Slack. I feel confident at least a few of us have style guides we're happy and able to share with you.
-
 
 And now, the meat of it (or seitan or something for those who don't want meat):
 -------------------------------------------------------------------------------
