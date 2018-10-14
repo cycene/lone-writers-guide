@@ -1,4 +1,4 @@
-Here are some more suggestions for topics that could be added to this book: 
+Here are some more suggestions for topics that could be added to this document: 
 
-* Taking part in the Agile process
+* Agile development
 * Should you start by fixing old copy or writing new? How to decide?
